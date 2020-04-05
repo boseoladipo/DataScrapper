@@ -11,8 +11,8 @@ Download and install Docker for your os if you do not have it setup from https:/
 ## Usage
 Ensure that docker is running and run the following commands to setup and run the application:
 ```bash
-git clone https://github.com/StudentFinance/GetLinks.git
-cd GetLinks
+git clone https://github.com/StudentFinance/DataScrapper.git
+cd DataScrapper
 ```
 
 ## Tests
